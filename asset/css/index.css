@@ -212,13 +212,13 @@ header {
   width: 50%;
 }
 .progress-line .PHP {
-  width: 20%;
+  width: 50%;
 }
 .progress-line .bash {
   width: 70%;
 }
 .progress-line .Python {
-  width: 40%;
+  width: 50%;
 }
 
 
@@ -264,13 +264,13 @@ header {
   content: "50%";
 }
 .progress-line .PHP::after {
-  content: "20%";
+  content: "50%";
 }
 .progress-line .bash::after {
   content: "70%";
 }
 .progress-line .Python::after {
-  content: "40%";
+  content: "50%";
 }
 .navbar.solid {
   background-color: #07374a;
